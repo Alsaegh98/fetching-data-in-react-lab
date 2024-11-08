@@ -11,7 +11,7 @@ const StarshipList = ({ starships }) => {
         ))}
       </ul>
     </section>
-  );
-};
+  )
+}
 
 export default StarshipList;

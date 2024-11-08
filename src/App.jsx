@@ -31,7 +31,7 @@ const App = () => {
       <StarshipSearch fetchData={fetchData} />
       {loading ? <p>Loading...</p> : <StarshipList starships={starships} />}
     </main>
-  );
-};
+  )
+}
 
 export default App;

@@ -21,5 +21,5 @@ export const searchStarships = async (query) => {
     console.error('Fetch error:', error);
     throw error;
   }
-};
+}
 

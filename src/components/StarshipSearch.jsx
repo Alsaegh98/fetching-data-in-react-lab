@@ -24,7 +24,7 @@ const StarshipSearch = ({ fetchData }) => {
         <button type="submit">Search</button>
       </form>
     </section>
-  );
-};
+  )
+}
 
 export default StarshipSearch;

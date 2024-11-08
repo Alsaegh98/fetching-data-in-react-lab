@@ -7,8 +7,8 @@ const StarshipCard = ({ starship }) => {
         <p>Manufacturer: {starship.manufacturer}</p>
         <p>Model: {starship.model}</p>
       </li>
-    );
-  };
+    )
+  }
   
   export default StarshipCard;
   
